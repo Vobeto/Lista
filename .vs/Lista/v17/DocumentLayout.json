@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\maui\\Lista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|c:\\maui\\lista\\views\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|solutionrelative:views\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|c:\\maui\\lista\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|c:\\maui\\lista\\views\\addedittaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|solutionrelative:views\\addedittaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|c:\\maui\\lista\\views\\addedittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|solutionrelative:views\\addedittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|c:\\maui\\lista\\views\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC7B5958-FF1A-4012-8B37-7E7D5B16DFF5}|Lista.csproj|solutionrelative:views\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\maui\\Lista\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\maui\\Lista\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:25:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditTaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\maui\\Lista\\Views\\AddEditTaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddEditTaskPage.xaml.cs",
+              "ToolTip": "C:\\maui\\Lista\\Views\\AddEditTaskPage.xaml.cs",
+              "RelativeToolTip": "Views\\AddEditTaskPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:59:55.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditTaskPage.xaml",
+              "DocumentMoniker": "C:\\maui\\Lista\\Views\\AddEditTaskPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AddEditTaskPage.xaml",
+              "ToolTip": "C:\\maui\\Lista\\Views\\AddEditTaskPage.xaml",
+              "RelativeToolTip": "Views\\AddEditTaskPage.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T17:52:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartPage.xaml.cs",
+              "DocumentMoniker": "C:\\maui\\Lista\\Views\\StartPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StartPage.xaml.cs",
+              "ToolTip": "C:\\maui\\Lista\\Views\\StartPage.xaml.cs",
+              "RelativeToolTip": "Views\\StartPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:48:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartPage.xaml",
+              "DocumentMoniker": "C:\\maui\\Lista\\Views\\StartPage.xaml",
+              "RelativeDocumentMoniker": "Views\\StartPage.xaml",
+              "ToolTip": "C:\\maui\\Lista\\Views\\StartPage.xaml",
+              "RelativeToolTip": "Views\\StartPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T17:47:54.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

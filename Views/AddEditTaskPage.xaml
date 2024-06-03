@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lista.Views.AddEditTaskPage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             NavigationPage.HasNavigationBar="False">
+
+
+    <Grid>
+        <VerticalStackLayout>
+            <ImageButton 
+                BackgroundColor="Transparent"
+                Clicked="ClosePage"
+                HeightRequest="35"
+                WidthRequest="50"        
+                Source="resources/images/seta.png"
+                HorizontalOptions="Start"
+                />
+
+            <Entry Placeholder="Tarefas" PlaceholderColor="Gray"/>
+            <Editor Placeholder="Descrição" PlaceholderColor="Gray"/>
+            <DatePicker/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Etapas (Sub-Tarefas)" VerticalOptions="Center"/>
+                <Button Text="+" 
+                     Clicked="AddTaks"
+                     HorizontalOptions="EndAndExpand" 
+                     CornerRadius="25" 
+                     BorderColor="Black"
+                     BorderWidth="1"
+                     FontSize="15"
+                     BackgroundColor="White"
+                     TextColor="Black"/>
+            </StackLayout>
+
+            <Grid ColumnDefinitions="30, *, 30">
+                <CheckBox/>
+                <Label 
+                    Grid.Column="1"
+                    Text="Etapa"
+                    VerticalOptions="Center"/>
+                <Label 
+                    Grid.Column="2"
+                    Text="Trash"
+                    VerticalOptions="Center"/>
+            </Grid>
+        </VerticalStackLayout>
+
+
+        <Label 
+            Text="Salvar" TextColor="Black" FontSize="20" 
+            VerticalOptions="End" 
+            HorizontalOptions="Center"
+            Padding="50" FontAttributes="Bold">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="SaveTask"/>
+            </Label.GestureRecognizers>
+        </Label>
+    </Grid>
+</ContentPage>
